@@ -6,7 +6,7 @@ public class Exercicio_1_05 {
         Scanner sc = new Scanner(System.in);
         Locale.setDefault(Locale.US);
 
-        System.out.println("Didigte o valor do diâmetro");
+        System.out.println("Didigte o valor do diâmetro: ");
         double diametro = sc.nextDouble();
         double raio = diametro / 2;
 
